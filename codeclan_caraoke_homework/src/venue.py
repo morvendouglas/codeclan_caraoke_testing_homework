@@ -4,17 +4,4 @@ class Venue:
         self.name = name
         self.rooms = rooms
         self.till = till
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
+ 
