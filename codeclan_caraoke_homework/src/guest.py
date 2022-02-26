@@ -4,17 +4,4 @@ class Guest:
         self.name = name
         self.cash = cash
         self.favourite_song = favourite_song
-
-
-
-
-
-        
-
-
-        
-
-
-
-
-        
+    
