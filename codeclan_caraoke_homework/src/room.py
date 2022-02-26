@@ -44,17 +44,3 @@ class Room:
     def add_food_to_room(self, bar):
         self.guests_spending += bar.food
         return self.guests_spending
-
-    # def add_total_guest_spending_to_till(self, bar, venue):
-    #     self.add_entry_fees_to_room()
-    #     self.add_drink_to_room(bar)
-    #     self.add_food_to_room(bar)
-    #     venue.till += self.guests_spending
-    #     return venue.till
-
-    
-
-
-
-
-
